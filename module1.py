@@ -18,3 +18,5 @@ driver.get("http://ts-test.validio.com.ua/ctpm")
 Field = driver.find_element_by_xpath("\\input[@id=.*UserName]")
 Field.SendKeys("Viktor.klymenko")
 #comment
+
+#it is test ts test
